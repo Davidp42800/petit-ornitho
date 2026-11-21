@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:io';
 import 'package:flutter/services.dart';
 import 'dart:ui' as ui;
@@ -19,7 +20,7 @@ void main() {
       await (FontLoader('Avenir')..addFont(
             Future.value(
               ByteData.sublistView(
-                File('/System/Library/Fonts/Avenir Next.ttc').readAsBytesSync(),
+                File(testAvenirPath()).readAsBytesSync(),
               ),
             ),
           ))
@@ -179,7 +180,7 @@ void main() {
                 .toImage();
         final bytes = await img.toByteData(format: ui.ImageByteFormat.png);
         await File(
-          '/private/tmp/joli-bec-letter-board.png',
+          '${Directory.systemTemp.path}/joli-bec-letter-board.png',
         ).writeAsBytes(bytes!.buffer.asUint8List());
       });
     },

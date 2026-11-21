@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui' as ui;
@@ -12,7 +13,7 @@ void main() {
  testWidgets('Ranking mobile cards and locked controls', (t) async {
   t.view.physicalSize=const Size(390,1100);t.view.devicePixelRatio=1;
   addTearDown(t.view.resetPhysicalSize);addTearDown(t.view.resetDevicePixelRatio);
-  for(final entry in {'Avenir':'/System/Library/Fonts/Avenir Next.ttc','MaterialIcons':'/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/MaterialIcons-Regular.otf'}.entries){
+  for(final entry in {'Avenir':testAvenirPath(),'MaterialIcons':testFontPath('MaterialIcons-Regular.otf')}.entries){
    final font=File(entry.value);if(font.existsSync())await (FontLoader(entry.key)..addFont(Future.value(ByteData.sublistView(font.readAsBytesSync())))).load();
   }
   final q=Question(Map<String,dynamic>.from((jsonDecode(File('data/editorial/ranking-release/questions.json').readAsStringSync()) as List).first));

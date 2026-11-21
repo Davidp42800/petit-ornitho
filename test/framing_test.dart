@@ -66,7 +66,7 @@ void main() {
               .toImage();
       final bytes = await image.toByteData(format: ui.ImageByteFormat.png);
       File(
-        '/private/tmp/ornitho-goldfinch-framing.png',
+        '${Directory.systemTemp.path}/ornitho-goldfinch-framing.png',
       ).writeAsBytesSync(bytes!.buffer.asUint8List());
       image.dispose();
     });

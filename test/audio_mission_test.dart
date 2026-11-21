@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
@@ -100,7 +101,7 @@ void main() {
           Future.value(
             ByteData.sublistView(
               File(
-                '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/Roboto-Regular.ttf',
+                testFontPath('Roboto-Regular.ttf'),
               ).readAsBytesSync(),
             ),
           ),
@@ -160,7 +161,7 @@ void main() {
                 .toImage();
         final bytes = await image.toByteData(format: ui.ImageByteFormat.png);
         File(
-          '/private/tmp/ornitho-victory-${width.toInt()}.png',
+          '${Directory.systemTemp.path}/ornitho-victory-${width.toInt()}.png',
         ).writeAsBytesSync(bytes!.buffer.asUint8List());
         image.dispose();
       });
@@ -185,7 +186,7 @@ void main() {
       await (FontLoader('Avenir')..addFont(
             Future.value(
               ByteData.sublistView(
-                File('/System/Library/Fonts/Avenir Next.ttc').readAsBytesSync(),
+                File(testAvenirPath()).readAsBytesSync(),
               ),
             ),
           ))
@@ -270,7 +271,7 @@ void main() {
                 .toImage();
         final bytes = await image.toByteData(format: ui.ImageByteFormat.png);
         await File(
-          '/private/tmp/audio-mission.png',
+          '${Directory.systemTemp.path}/audio-mission.png',
         ).writeAsBytes(bytes!.buffer.asUint8List());
       });
       await t.tap(answer);

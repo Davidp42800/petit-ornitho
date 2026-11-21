@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:io';
 import 'dart:ui' as ui;
 import 'package:flutter/material.dart';
@@ -32,7 +33,7 @@ void main() {
     t.view.devicePixelRatio = 1;
     addTearDown(t.view.resetPhysicalSize);
     addTearDown(t.view.resetDevicePixelRatio);
-    final font = File('/System/Library/Fonts/Avenir Next.ttc');
+    final font = File(testAvenirPath());
     if (font.existsSync()) {
       await (FontLoader('Avenir')..addFont(
             Future.value(ByteData.sublistView(font.readAsBytesSync())),
@@ -40,7 +41,7 @@ void main() {
           .load();
     }
     final icons = File(
-      '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/MaterialIcons-Regular.otf',
+      testFontPath('MaterialIcons-Regular.otf'),
     );
     if (icons.existsSync()) {
       await (FontLoader('MaterialIcons')..addFont(

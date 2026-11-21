@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui' as ui;
@@ -30,7 +31,7 @@ void main() {
         'MaterialIcons': 'MaterialIcons-Regular.otf',
       }.entries) {
         final file = File(
-          '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/${item.value}',
+          testFontPath('${item.value}'),
         );
         await (FontLoader(item.key)..addFont(
               Future.value(ByteData.sublistView(file.readAsBytesSync())),

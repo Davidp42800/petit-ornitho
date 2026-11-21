@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui' as ui;
@@ -138,9 +139,9 @@ void main() {
     addTearDown(t.view.resetPhysicalSize);
     addTearDown(t.view.resetDevicePixelRatio);
     for (final entry in {
-      'Avenir': '/System/Library/Fonts/Avenir Next.ttc',
+      'Avenir': testAvenirPath(),
       'MaterialIcons':
-          '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/MaterialIcons-Regular.otf',
+          testFontPath('MaterialIcons-Regular.otf'),
     }.entries) {
       await (FontLoader(entry.key)..addFont(
             Future.value(

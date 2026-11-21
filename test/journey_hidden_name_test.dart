@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui' as ui;
@@ -47,9 +48,9 @@ void main() {
         },
       };
       for (final entry in {
-        'Avenir': '/System/Library/Fonts/Avenir Next.ttc',
+        'Avenir': testAvenirPath(),
         'MaterialIcons':
-            '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/MaterialIcons-Regular.otf',
+            testFontPath('MaterialIcons-Regular.otf'),
       }.entries) {
         final file = File(entry.value);
         if (file.existsSync()) {

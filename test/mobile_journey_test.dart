@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui' as ui;
@@ -25,7 +26,7 @@ void main() {
         detectSessionInUri: false,
       ),
     );
-    final font = File('/System/Library/Fonts/Avenir Next.ttc');
+    final font = File(testAvenirPath());
     if (font.existsSync()) {
       final loader = FontLoader('Avenir')
         ..addFont(Future.value(ByteData.sublistView(font.readAsBytesSync())));
@@ -36,7 +37,7 @@ void main() {
       'Roboto': 'Roboto-Regular.ttf',
     }.entries) {
       final f = File(
-        '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/${entry.value}',
+        testFontPath('${entry.value}'),
       );
       if (f.existsSync()) {
         final loader = FontLoader(entry.key)

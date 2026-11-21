@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'package:petit_ornitho/ui/success_banner.dart';
 import 'dart:convert';
 import 'dart:io';
@@ -43,7 +44,7 @@ void main() {
     final fonts = Uri.parse(
       '${flutter['rootUri']}/',
     ).resolve('../../bin/cache/artifacts/material_fonts/');
-    final avenir = File('/System/Library/Fonts/Avenir.ttc');
+    final avenir = File(testAvenirPath());
     for (final entry in {
       'Avenir': avenir.existsSync() ? avenir.uri.toString() : 'Roboto-Regular.ttf',
       'Roboto': 'Roboto-Regular.ttf',

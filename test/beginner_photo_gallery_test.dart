@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:convert';
 import 'dart:io';
 import 'dart:ui' as ui;
@@ -58,7 +59,7 @@ void main() {
           if (selected.containsKey(photo['id'])) {'bird': bird, 'photo': photo},
     ];
     expect(photos.length, selected.length);
-    final font = File('/System/Library/Fonts/Avenir Next.ttc');
+    final font = File(testAvenirPath());
     if (font.existsSync()) {
       await (FontLoader('Avenir')..addFont(
             Future.value(ByteData.sublistView(font.readAsBytesSync())),

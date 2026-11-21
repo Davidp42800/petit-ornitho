@@ -1,3 +1,4 @@
+import 'test_paths.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
@@ -54,7 +55,7 @@ void main() {
         'MaterialIcons': 'MaterialIcons-Regular.otf',
       }.entries) {
         final file = File(
-          '/opt/homebrew/share/flutter/bin/cache/artifacts/material_fonts/${item.value}',
+          testFontPath('${item.value}'),
         );
         if (file.existsSync()) {
           await (FontLoader(item.key)..addFont(
