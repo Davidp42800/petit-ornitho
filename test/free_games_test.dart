@@ -128,7 +128,7 @@ void main() {
     await t.tap(find.byTooltip('Mon compte'));
     await t.pumpAndSettle();
     expect(find.text('Se connecter'), findsOneWidget);
-    expect(find.text('Pépi et l’assistant IA'), findsOneWidget);
+    expect(find.text('Sources'), findsOneWidget);
   });
   testWidgets('Changing stages never silently resumes a different stage', (
     t,

@@ -157,7 +157,7 @@ class _AccountScreenState extends State<AccountScreen> {
                         ),
                       const SizedBox(height: 24),
                       const Text(
-                        'Pépi et l’assistant IA',
+                        'Sources',
                         style: TextStyle(
                           fontSize: 21,
                           fontWeight: FontWeight.w900,
@@ -166,20 +166,7 @@ class _AccountScreenState extends State<AccountScreen> {
                       ),
                       const SizedBox(height: 8),
                       const Text(
-                        'Pépi propose des indices et des explications liés aux jeux. Avec un compte connecté, l’IA peut reformuler les conseils à partir du contenu documenté. Sans connexion ou si l’IA est indisponible, le conseil du carnet reste affiché. Aucun texte libre, nom personnel ou observation personnelle n’est envoyé à OpenAI. L’IA ne décide pas des scores.',
-                      ),
-                      const SizedBox(height: 24),
-                      const Text(
-                        'Sources et confidentialité',
-                        style: TextStyle(
-                          fontSize: 21,
-                          fontWeight: FontWeight.w900,
-                          color: ink,
-                        ),
-                      ),
-                      const SizedBox(height: 8),
-                      const Text(
-                        'Les fiches citent la Station ornithologique suisse, le Muséum national d’Histoire naturelle et la LPO. Les liens et crédits photo sont disponibles dans le carnet et les jeux.\n\nAvec un compte, Supabase conserve l’e-mail, les parties et la progression. Aucun outil publicitaire n’est intégré. La suppression autonome du compte et la politique de confidentialité de publication restent à finaliser avant une sortie publique.',
+                        'Les fiches citent la Station ornithologique suisse, le Muséum national d’Histoire naturelle et la LPO. Les liens et crédits photo sont disponibles dans le carnet et les jeux.',
                       ),
                     ],
                   ),
