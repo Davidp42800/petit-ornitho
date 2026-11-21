@@ -1,0 +1,101 @@
+{
+  "inat-347327537": {
+    "subject": [
+      0.42,
+      0.3,
+      0.65,
+      0.535
+    ],
+    "note": "Oiseau entier au bord de l’eau, longue queue et dessous jaune visibles ; contraste modéré."
+  },
+  "inat-317356247": {
+    "subject": [
+      0.32,
+      0.355,
+      0.64,
+      0.725
+    ],
+    "note": "Profil entier sur un fil, tête claire et poitrine jaune ; pas de sous-espèce ni de sexe attribué."
+  },
+  "inat-144717339": {
+    "subject": [
+      0.39,
+      0.24,
+      0.56,
+      0.75
+    ],
+    "note": "Silhouette entière en vol, ailes et queue étalées, dessous barré visible."
+  },
+  "inat-52111444": {
+    "subject": [
+      0.335,
+      0.39,
+      0.855,
+      0.9
+    ],
+    "note": "Profil entier au sol, dessin de tête contrasté et poitrine brun rosé."
+  },
+  "inat-113123584": {
+    "subject": [
+      0.035,
+      0.245,
+      0.725,
+      0.998
+    ],
+    "note": "Profil rapproché en plumage brun, queue au bord inférieur ; quelques branches au premier plan."
+  },
+  "inat-417950836": {
+    "subject": [
+      0.585,
+      0.565,
+      0.75,
+      0.875
+    ],
+    "note": "Vue de face au sol, masque jaune et noir lisible, pattes dans l’herbe."
+  },
+  "inat-12509634": {
+    "subject": [
+      0.49,
+      0.005,
+      0.885,
+      0.97
+    ],
+    "note": "Oiseau entier en vol vu de dessous ; ailes étendues, pattes jaunes et queue visibles."
+  },
+  "inat-488754083": {
+    "subject": [
+      0.41,
+      0.21,
+      0.75,
+      0.855
+    ],
+    "note": "Vue latérale en vol, tête claire et aile relevée ; contour entier."
+  },
+  "inat-93239255": {
+    "subject": [
+      0.485,
+      0.265,
+      0.805,
+      0.95
+    ],
+    "note": "Oiseau dressé dans l’herbe, tête et flancs rayés nets, pattes partiellement cachées."
+  },
+  "inat-342842647": {
+    "subject": [
+      0.09,
+      0.375,
+      0.8,
+      0.775
+    ],
+    "note": "Canard de profil sur l’eau, large bec, œil jaune et flanc roux ; image un peu sombre mais nette."
+  },
+  "inat-715468416": {
+    "subject": [
+      0.22,
+      0.105,
+      0.7,
+      0.755
+    ],
+    "note": "Cassenoix posé entier, bec et plumage moucheté lisibles malgré une ombre sur la tête."
+  }
+}

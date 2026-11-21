@@ -1,0 +1,50 @@
+[
+  {
+    "species_a": "ch_4090",
+    "species_b": "ch_4100",
+    "modality": "visual",
+    "version": 1,
+    "fact_a": "ch_4090_comparison_v1",
+    "fact_b": "ch_4100_comparison_v1",
+    "message": "Chez les femelles et les jeunes, cherche la bande claire au-dessus de l’œil : elle indique le Tarier des prés. Le Tarier pâtre n’a pas cette bande.",
+    "status": "published",
+    "reviewer": "Codex — revue éditoriale des passages cités",
+    "reviewed_at": "2026-10-03",
+    "sources": [
+      {
+        "url": "https://www.vogelwarte.ch/wp-content/uploads/2025/01/TarierDesPres.pdf#page=2",
+        "title": "Tarier des prés",
+        "document_id": "vw_4090_2ff4245095b0"
+      },
+      {
+        "url": "https://www.vogelwarte.ch/wp-content/uploads/2025/01/TarierPatre.pdf#page=2",
+        "title": "Tarier pâtre",
+        "document_id": "vw_4100_745a94eaa41f"
+      }
+    ]
+  },
+  {
+    "species_a": "ch_5580",
+    "species_b": "goldfinch",
+    "modality": "visual",
+    "version": 1,
+    "fact_a": "ch_5580_comparison_v1",
+    "fact_b": "goldfinch_comparison_v1",
+    "message": "Le Chardonneret élégant adulte porte un masque rouge et une bande jaune sur l’aile. Chez le Bruant jaune mâle, c’est surtout la tête qui est jaune vif.",
+    "status": "published",
+    "reviewer": "Codex — revue éditoriale des passages cités",
+    "reviewed_at": "2026-10-03",
+    "sources": [
+      {
+        "url": "https://www.vogelwarte.ch/wp-content/uploads/2025/01/BruantJaune.pdf#page=2",
+        "title": "Bruant jaune",
+        "document_id": "vw_5580_468fb76a38ad"
+      },
+      {
+        "url": "https://www.vogelwarte.ch/wp-content/uploads/2025/01/ChardonneretElegant.pdf#page=2",
+        "title": "Chardonneret élégant",
+        "document_id": "vw_5350_d3582f5785c0"
+      }
+    ]
+  }
+]

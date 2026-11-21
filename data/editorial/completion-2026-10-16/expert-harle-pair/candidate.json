@@ -1,0 +1,64 @@
+{
+  "format": "decisive_criterion",
+  "species_id": "ch_1060",
+  "route_stages": [
+    5
+  ],
+  "status": "draft",
+  "prompt": "Tu hésites entre deux harles mâles en plumage nuptial. Celui observé porte une double huppe hérissée, une bande brune sur la poitrine et des flancs gris. Lequel correspond ?",
+  "options": [
+    "Harle bièvre",
+    "Harle huppé"
+  ],
+  "answer": 1,
+  "explanation": "Ces trois traits correspondent au Harle huppé. Le mâle du Harle bièvre porte une courte huppe, avec le cou et les flancs blancs dans ce plumage.",
+  "fact_ids": [
+    "mystery_evidence_ch_1050_merkmale_4a38a7f2da",
+    "mystery_evidence_ch_1060_merkmale_ecf7b860a0"
+  ],
+  "context": null,
+  "justification": {
+    "prompt": "Quel aspect du mâle de Harle bièvre, dans ce même plumage, permet de l’écarter ?",
+    "options": [
+      "Une courte huppe, un cou blanc et des flancs blancs.",
+      "Une courte huppe, une poitrine brune et des flancs gris.",
+      "Une double huppe hérissée, un cou blanc et des flancs blancs."
+    ],
+    "answer": 0,
+    "explanation": "Chez le bièvre, la huppe est courte et le cou comme les flancs sont blancs. La double huppe, la poitrine brune et les flancs gris caractérisent ici le huppé. Les autres propositions mélangent ces caractères.",
+    "fact_ids": [
+      "mystery_evidence_ch_1050_merkmale_4a38a7f2da",
+      "mystery_evidence_ch_1060_merkmale_ecf7b860a0"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Le mâle du Harle huppé se distingue du bièvre par la double huppe hérissée, la bande pectorale brune et les flancs gris.",
+      "fact_ids": [
+        "mystery_evidence_ch_1060_merkmale_ecf7b860a0"
+      ]
+    },
+    {
+      "text": "Le mâle du Harle bièvre porte une courte huppe, le cou et les flancs blancs.",
+      "fact_ids": [
+        "mystery_evidence_ch_1050_merkmale_4a38a7f2da"
+      ]
+    }
+  ],
+  "release_blockers": [
+    "Vérifier le format compilé et servi avant activation des routes.",
+    "Vérifier le tirage Expert et le parcours connecté avec la version éditoriale définitive."
+  ],
+  "authorship": {
+    "author": "Codex",
+    "method": "source_grounded_editorial",
+    "date": "2026-10-17"
+  },
+  "editorial_review": {
+    "date": "2026-10-17",
+    "reviewer": "Codex",
+    "scope": "Comparaison des passages Vogelwarte archivés, mâles en plumage nuptial. La justification porte sur le sosie et ne répète plus la première observation. Les distracteurs mélangent des caractères explicitement opposés dans les deux sources.",
+    "human_certification": false,
+    "difficulty_note": "Deux espèces proches, caractères fins et comparaison du sosie. Difficulté réelle à observer en jeu ; ce défi seul ne certifie pas Expert."
+  }
+}

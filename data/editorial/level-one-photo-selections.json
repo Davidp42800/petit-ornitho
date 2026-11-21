@@ -1,0 +1,92 @@
+{
+  "inat-56961487": {
+    "subject": [
+      0.3,
+      0.09,
+      0.63,
+      0.94
+    ],
+    "note": "Vue latérale nette, plages blanches des ailes et dessous rouge visibles."
+  },
+  "inat-123587450": {
+    "subject": [
+      0.32,
+      0.3,
+      0.84,
+      0.91
+    ],
+    "note": "Silhouette compacte, petit bec et plumage brun barré visibles."
+  },
+  "inat-91990840": {
+    "subject": [
+      0.3,
+      0.29,
+      0.91,
+      0.76
+    ],
+    "note": "Gros bec et liserés jaunes visibles, oiseau entier."
+  },
+  "inat-13711001": {
+    "subject": [
+      0.38,
+      0.12,
+      0.66,
+      0.79
+    ],
+    "note": "Vue de face complémentaire ; gros bec visible."
+  },
+  "inat-136408520": {
+    "subject": [
+      0.39,
+      0.2,
+      0.68,
+      0.68
+    ],
+    "note": "Vue nette du plumage et des bandes alaires du mâle."
+  },
+  "inat-27400305": {
+    "subject": [
+      0.21,
+      0.04,
+      0.82,
+      0.86
+    ],
+    "note": "Portrait : bec et plaque frontale blancs visibles ; corps partiellement hors cadre original."
+  },
+  "inat-136543105": {
+    "subject": [
+      0.17,
+      0.1,
+      0.68,
+      0.89
+    ],
+    "note": "Calotte grise, joue claire et bavette visibles."
+  },
+  "inat-600015216": {
+    "subject": [
+      0.36,
+      0.36,
+      0.75,
+      0.75
+    ],
+    "note": "Joues claires et barres alaires visibles ; branche devant les pattes."
+  },
+  "inat-317966861": {
+    "subject": [
+      0.48,
+      0.32,
+      0.66,
+      0.76
+    ],
+    "note": "Longue queue et petit bec visibles ; feuillage devant une partie du corps."
+  },
+  "inat-51631161": {
+    "subject": [
+      0.18,
+      0.24,
+      0.62,
+      0.82
+    ],
+    "note": "Bande oculaire sombre, dos gris et ventre roux visibles."
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "blackbird",
+    "author": "(c) Luiz Lapa, some rights reserved (CC BY)",
+    "license": "cc-by",
+    "source": "https://www.inaturalist.org/photos/356885346",
+    "asset": "assets/birds/blackbird.jpg",
+    "modifications": "Redimensionnement et recadrage à l’affichage",
+    "accessed": "2026-09-30",
+    "taxon_id": 12716
+  },
+  {
+    "id": "robin",
+    "title": "File:European robin (00341).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:European_robin_(00341).jpg",
+    "asset": "assets/birds/robin.jpg",
+    "modifications": "Redimensionnement et recadrage à l’affichage",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "blue_tit",
+    "title": "File:Eurasian blue tit 2022 04 30.jpg",
+    "author": "Alexis Lours",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurasian_blue_tit_2022_04_30.jpg",
+    "asset": "assets/birds/blue_tit.jpg",
+    "modifications": "Redimensionnement et recadrage à l’affichage",
+    "accessed": "2026-09-30"
+  },
+  {
+    "id": "goldfinch",
+    "title": "File:European goldfinch (Carduelis carduelis) male.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:European_goldfinch_(Carduelis_carduelis)_male.jpg",
+    "asset": "assets/birds/goldfinch.jpg",
+    "modifications": "Redimensionnement et recadrage à l’affichage",
+    "accessed": "2026-09-30"
+  }
+]

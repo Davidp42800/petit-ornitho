@@ -1,0 +1,7 @@
+# Décor du jardin suisse
+
+Création le 30 septembre 2026 avec l’outil intégré `image_gen` (skill imagegen), sans API/CLI externe. Fichier livré : `assets/art/swiss-garden-v1.png` (1024 × 1536). Illustration décorative originale, jamais utilisée comme preuve scientifique ni comme photo d’identification. Référence de direction : fond de l’application AventureScolaireFlutter, capture `docs/captures/65-terrain-home.png` consultée ; aucun asset copié de cette app.
+
+## Prompt utilisé
+
+Use case: stylized-concept. Create an original richly painted environment background for a mobile birdwatching adventure game set in a Swiss garden. Portrait 1024x1536 composition. A welcoming winding pale stone footpath from foreground through lush flowering meadow and old apple orchard, wildflowers along the bottom corners, elegant leafy branches framing the top corners, distant turquoise Swiss lake and soft blue Alpine mountains seen through the garden. Warm golden morning light, atmospheric depth, charming polished hand-painted fantasy adventure game environment, painterly detailed foliage, tactile plants and rocks, inviting and luminous, high production quality. This is a decorative background behind a mobile interface, NOT a UI mockup: no text, no frames, no interface elements, no logos, no people, no birds or other animals (bird identification uses separate scientific photos). Keep central zone relatively calm, detail concentrated along edges and lower foreground. Emerald and sage greens, turquoise distant water, amber sunlight. Full bleed opaque scene.

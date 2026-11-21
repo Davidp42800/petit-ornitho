@@ -1,0 +1,3519 @@
+{
+  "source": "https://www.vogelwarte.ch/wp-content/uploads/2024/05/ch-artliste-6.pdf",
+  "edition": 2026,
+  "accessed": "2026-10-03",
+  "species": [
+    {
+      "swiss_id": "660",
+      "name": "Bernache cravant",
+      "latin": "Branta bernicla",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "690",
+      "name": "Bernache à cou roux",
+      "latin": "Branta ruficollis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "680",
+      "name": "Bernache du Canada",
+      "latin": "Branta canadensis",
+      "category": "D",
+      "status": null,
+      "breeding": null
+    },
+    {
+      "swiss_id": "670",
+      "name": "Bernache nonnette",
+      "latin": "Branta leucopsis",
+      "category": "AD",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "580",
+      "name": "Oie des neiges",
+      "latin": "Anser caerulescens",
+      "category": "D",
+      "status": null,
+      "breeding": null
+    },
+    {
+      "swiss_id": "590",
+      "name": "Oie cendrée",
+      "latin": "Anser anser",
+      "category": "AC",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "621",
+      "name": "Oie de la taïga",
+      "latin": "Anser fabalis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "622",
+      "name": "Oie à bec court",
+      "latin": "Anser brachyrhynchus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "623",
+      "name": "Oie de la toundra",
+      "latin": "Anser serrirostris",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "600",
+      "name": "Oie rieuse",
+      "latin": "Anser albifrons",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "610",
+      "name": "Oie naine",
+      "latin": "Anser erythropus",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "570",
+      "name": "Cygne tuberculé",
+      "latin": "Cygnus olor",
+      "category": "AC",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "560",
+      "name": "Cygne de Bewick",
+      "latin": "Cygnus columbianus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "550",
+      "name": "Cygne chanteur",
+      "latin": "Cygnus cygnus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "704",
+      "name": "Ouette d'Egypte",
+      "latin": "Alopochen aegyptiaca",
+      "category": "C",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "710",
+      "name": "Tadorne de Belon",
+      "latin": "Tadorna tadorna",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "700",
+      "name": "Tadorne casarca",
+      "latin": "Tadorna ferruginea",
+      "category": "C",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "810",
+      "name": "Canard mandarin",
+      "latin": "Aix galericulata",
+      "category": "C",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "740",
+      "name": "Sarcelle d'été",
+      "latin": "Spatula querquedula",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "730",
+      "name": "Sarcelle à ailes bleues",
+      "latin": "Spatula discors",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "830",
+      "name": "Canard souchet",
+      "latin": "Spatula clypeata",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "820",
+      "name": "Canard chipeau",
+      "latin": "Mareca strepera",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "800",
+      "name": "Canard siffleur",
+      "latin": "Mareca penelope",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "720",
+      "name": "Canard colvert",
+      "latin": "Anas platyrhynchos",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "780",
+      "name": "Canard pilet",
+      "latin": "Anas acuta",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "750",
+      "name": "Sarcelle d'hiver",
+      "latin": "Anas crecca",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "753",
+      "name": "Sarcelle à ailes vertes",
+      "latin": "Anas carolinensis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "790",
+      "name": "Sarcelle marbrée",
+      "latin": "Marmaronetta angustirostris",
+      "category": "D",
+      "status": null,
+      "breeding": null
+    },
+    {
+      "swiss_id": "850",
+      "name": "Nette rousse",
+      "latin": "Netta rufina",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "860",
+      "name": "Fuligule milouin",
+      "latin": "Aythya ferina",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "880",
+      "name": "Fuligule nyroca",
+      "latin": "Aythya nyroca",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "875",
+      "name": "Fuligule à bec cerclé",
+      "latin": "Aythya collaris",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "870",
+      "name": "Fuligule morillon",
+      "latin": "Aythya fuligula",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "890",
+      "name": "Fuligule milouinan",
+      "latin": "Aythya marila",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "895",
+      "name": "Fuligule à tête noire",
+      "latin": "Aythya affinis",
+      "category": "D",
+      "status": null,
+      "breeding": null
+    },
+    {
+      "swiss_id": "950",
+      "name": "Eider à duvet",
+      "latin": "Somateria mollissima",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1000",
+      "name": "Macreuse à front blanc",
+      "latin": "Melanitta perspicillata",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "990",
+      "name": "Macreuse brune",
+      "latin": "Melanitta fusca",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "980",
+      "name": "Macreuse noire",
+      "latin": "Melanitta nigra",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "930",
+      "name": "Harelde boréale",
+      "latin": "Clangula hyemalis",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "900",
+      "name": "Garrot à oeil d'or",
+      "latin": "Bucephala clangula",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1040",
+      "name": "Harle piette",
+      "latin": "Mergellus albellus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1050",
+      "name": "Harle bièvre",
+      "latin": "Mergus merganser",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1060",
+      "name": "Harle huppé",
+      "latin": "Mergus serrator",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1021",
+      "name": "Érismature rousse",
+      "latin": "Oxyura jamaicensis",
+      "category": "C",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1020",
+      "name": "Érismature à tête blanche",
+      "latin": "Oxyura leucocephala",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1550",
+      "name": "Gélinotte des bois",
+      "latin": "Tetrastes bonasia",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1540",
+      "name": "Lagopède alpin",
+      "latin": "Lagopus muta",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1500",
+      "name": "Grand Tétras",
+      "latin": "Tetrao urogallus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1510",
+      "name": "Tétras lyre",
+      "latin": "Lyrurus tetrix",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1600",
+      "name": "Perdrix grise",
+      "latin": "Perdix perdix",
+      "category": "AD",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1620",
+      "name": "Faisan de Colchide",
+      "latin": "Phasianus colchicus",
+      "category": "C",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1610",
+      "name": "Caille des blés",
+      "latin": "Coturnix coturnix",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1570",
+      "name": "Perdrix rouge",
+      "latin": "Alectoris rufa",
+      "category": "B",
+      "status": "4",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "1560",
+      "name": "Perdrix bartavelle",
+      "latin": "Alectoris graeca",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3230",
+      "name": "Engoulevent d'Europe",
+      "latin": "Caprimulgus europaeus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3260",
+      "name": "Martinet à ventre blanc",
+      "latin": "Tachymarptis melba",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3270",
+      "name": "Martinet noir",
+      "latin": "Apus apus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3280",
+      "name": "Martinet pâle",
+      "latin": "Apus pallidus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1800",
+      "name": "Outarde barbue",
+      "latin": "Otis tarda",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1810",
+      "name": "Outarde houbara",
+      "latin": "Chlamydotis undulata",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1815",
+      "name": "Outarde de Macqueen",
+      "latin": "Chlamydotis macqueenii",
+      "category": "BD",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1790",
+      "name": "Outarde canepetière",
+      "latin": "Tetrax tetrax",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3030",
+      "name": "Coucou geai",
+      "latin": "Clamator glandarius",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3040",
+      "name": "Coucou gris",
+      "latin": "Cuculus canorus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2930",
+      "name": "Syrrhapte paradoxal",
+      "latin": "Syrrhaptes paradoxus",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2971",
+      "name": "Pigeon biset domestique",
+      "latin": "Columba livia domestica",
+      "category": "C",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2980",
+      "name": "Pigeon colombin",
+      "latin": "Columba oenas",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2990",
+      "name": "Pigeon ramier",
+      "latin": "Columba palumbus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3000",
+      "name": "Tourterelle des bois",
+      "latin": "Streptopelia turtur",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3010",
+      "name": "Tourterelle orientale",
+      "latin": "Streptopelia orientalis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3020",
+      "name": "Tourterelle turque",
+      "latin": "Streptopelia decaocto",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1670",
+      "name": "Râle d'eau",
+      "latin": "Rallus aquaticus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1680",
+      "name": "Râle des genêts",
+      "latin": "Crex crex",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1710",
+      "name": "Marouette ponctuée",
+      "latin": "Porzana porzana",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1730",
+      "name": "Gallinule poule-d'eau",
+      "latin": "Gallinula chloropus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1770",
+      "name": "Foulque macroule",
+      "latin": "Fulica atra",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1720",
+      "name": "Talève violacée",
+      "latin": "Porphyrio martinica",
+      "category": "D",
+      "status": null,
+      "breeding": null
+    },
+    {
+      "swiss_id": "1750",
+      "name": "Talève sultane",
+      "latin": "Porphyrio porphyrio",
+      "category": "C",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1700",
+      "name": "Marouette de Baillon",
+      "latin": "Zapornia pusilla",
+      "category": "A",
+      "status": "2",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1690",
+      "name": "Marouette poussin",
+      "latin": "Zapornia parva",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1640",
+      "name": "Grue cendrée",
+      "latin": "Grus grus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "50",
+      "name": "Grèbe castagneux",
+      "latin": "Tachybaptus ruficollis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "90",
+      "name": "Grèbe jougris",
+      "latin": "Podiceps grisegena",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "80",
+      "name": "Grèbe huppé",
+      "latin": "Podiceps cristatus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "60",
+      "name": "Grèbe esclavon",
+      "latin": "Podiceps auritus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "70",
+      "name": "Grèbe à cou noir",
+      "latin": "Podiceps nigricollis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "540",
+      "name": "Flamant rose",
+      "latin": "Phoenicopterus roseus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2440",
+      "name": "Oedicnème criard",
+      "latin": "Burhinus oedicnemus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1820",
+      "name": "Huîtrier pie",
+      "latin": "Haematopus ostralegus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2400",
+      "name": "Échasse blanche",
+      "latin": "Himantopus himantopus",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "2410",
+      "name": "Avocette élégante",
+      "latin": "Recurvirostra avosetta",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1850",
+      "name": "Vanneau huppé",
+      "latin": "Vanellus vanellus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1840",
+      "name": "Vanneau sociable",
+      "latin": "Vanellus gregarius",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1880",
+      "name": "Pluvier doré",
+      "latin": "Pluvialis apricaria",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1890",
+      "name": "Pluvier fauve",
+      "latin": "Pluvialis fulva",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1870",
+      "name": "Pluvier argenté",
+      "latin": "Pluvialis squatarola",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1910",
+      "name": "Grand Gravelot",
+      "latin": "Charadrius hiaticula",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1920",
+      "name": "Petit Gravelot",
+      "latin": "Charadrius dubius",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1940",
+      "name": "Gravelot kildir",
+      "latin": "Charadrius vociferus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1930",
+      "name": "Gravelot à collier interrompu",
+      "latin": "Anarhynchus alexandrinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1970",
+      "name": "Pluvier guignard",
+      "latin": "Eudromias morinellus",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "2000",
+      "name": "Courlis corlieu",
+      "latin": "Numenius phaeopus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2010",
+      "name": "Courlis à bec grêle",
+      "latin": "Numenius tenuirostris",
+      "category": "A",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2020",
+      "name": "Courlis cendré",
+      "latin": "Numenius arquata",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "2040",
+      "name": "Barge rousse",
+      "latin": "Limosa lapponica",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2030",
+      "name": "Barge à queue noire",
+      "latin": "Limosa limosa",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2180",
+      "name": "Tournepierre à collier",
+      "latin": "Arenaria interpres",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2250",
+      "name": "Bécasseau maubèche",
+      "latin": "Calidris canutus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2390",
+      "name": "Combattant varié",
+      "latin": "Calidris pugnax",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2370",
+      "name": "Bécasseau falcinelle",
+      "latin": "Calidris falcinellus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2360",
+      "name": "Bécasseau cocorli",
+      "latin": "Calidris ferruginea",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2280",
+      "name": "Bécasseau de Temminck",
+      "latin": "Calidris temminckii",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2240",
+      "name": "Bécasseau sanderling",
+      "latin": "Calidris alba",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2350",
+      "name": "Bécasseau variable",
+      "latin": "Calidris alpina",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2340",
+      "name": "Bécasseau violet",
+      "latin": "Calidris maritima",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2270",
+      "name": "Bécasseau minute",
+      "latin": "Calidris minuta",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2300",
+      "name": "Bécasseau de Bonaparte",
+      "latin": "Calidris fuscicollis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2380",
+      "name": "Bécasseau rousset",
+      "latin": "Calidris subruficollis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2320",
+      "name": "Bécasseau tacheté",
+      "latin": "Calidris melanotos",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2265",
+      "name": "Bécasseau d'Alaska",
+      "latin": "Calidris mauri",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2230",
+      "name": "Bécasse des bois",
+      "latin": "Scolopax rusticola",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2220",
+      "name": "Bécassine sourde",
+      "latin": "Lymnocryptes minimus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2200",
+      "name": "Bécassine double",
+      "latin": "Gallinago media",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2210",
+      "name": "Bécassine des marais",
+      "latin": "Gallinago gallinago",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "2160",
+      "name": "Chevalier bargette",
+      "latin": "Xenus cinereus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2430",
+      "name": "Phalarope à bec étroit",
+      "latin": "Phalaropus lobatus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2420",
+      "name": "Phalarope à bec large",
+      "latin": "Phalaropus fulicarius",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2140",
+      "name": "Chevalier guignette",
+      "latin": "Actitis hypoleucos",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2150",
+      "name": "Chevalier grivelé",
+      "latin": "Actitis macularius",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2110",
+      "name": "Chevalier culblanc",
+      "latin": "Tringa ochropus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2070",
+      "name": "Chevalier à pattes jaunes",
+      "latin": "Tringa flavipes",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2060",
+      "name": "Chevalier gambette",
+      "latin": "Tringa totanus",
+      "category": "A",
+      "status": "1",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "2080",
+      "name": "Chevalier stagnatile",
+      "latin": "Tringa stagnatilis",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2130",
+      "name": "Chevalier sylvain",
+      "latin": "Tringa glareola",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2050",
+      "name": "Chevalier arlequin",
+      "latin": "Tringa erythropus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2090",
+      "name": "Chevalier aboyeur",
+      "latin": "Tringa nebularia",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2460",
+      "name": "Courvite isabelle",
+      "latin": "Cursorius cursor",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2470",
+      "name": "Glaréole à collier",
+      "latin": "Glareola pratincola",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2480",
+      "name": "Glaréole à ailes noires",
+      "latin": "Glareola nordmanni",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2680",
+      "name": "Mouette tridactyle",
+      "latin": "Rissa tridactyla",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2530",
+      "name": "Mouette blanche",
+      "latin": "Pagophila eburnea",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2690",
+      "name": "Mouette de Sabine",
+      "latin": "Xema sabini",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2640",
+      "name": "Goéland railleur",
+      "latin": "Chroicocephalus genei",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2630",
+      "name": "Mouette rieuse",
+      "latin": "Chroicocephalus ridibundus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2660",
+      "name": "Mouette pygmée",
+      "latin": "Hydrocoloeus minutus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2625",
+      "name": "Mouette atricille",
+      "latin": "Leucophaeus atricilla",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2635",
+      "name": "Mouette de Franklin",
+      "latin": "Leucophaeus pipixcan",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2540",
+      "name": "Goéland d'Audouin",
+      "latin": "Ichthyaetus audouinii",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2620",
+      "name": "Mouette mélanocéphale",
+      "latin": "Ichthyaetus melanocephalus",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "2550",
+      "name": "Goéland cendré",
+      "latin": "Larus canus",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "2580",
+      "name": "Goéland marin",
+      "latin": "Larus marinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2590",
+      "name": "Goéland bourgmestre",
+      "latin": "Larus hyperboreus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2600",
+      "name": "Goéland à ailes blanches",
+      "latin": "Larus glaucoides",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2561",
+      "name": "Goéland argenté",
+      "latin": "Larus argentatus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2564",
+      "name": "Goéland pontique",
+      "latin": "Larus cachinnans",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2563",
+      "name": "Goéland leucophée",
+      "latin": "Larus michahellis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2570",
+      "name": "Goéland brun",
+      "latin": "Larus fuscus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2730",
+      "name": "Sterne hansel",
+      "latin": "Gelochelidon nilotica",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2740",
+      "name": "Sterne caspienne",
+      "latin": "Hydroprogne caspia",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2810",
+      "name": "Sterne voyageuse",
+      "latin": "Thalasseus bengalensis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2820",
+      "name": "Sterne caugek",
+      "latin": "Thalasseus sandvicensis",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2800",
+      "name": "Sterne naine",
+      "latin": "Sternula albifrons",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2770",
+      "name": "Sterne de Dougall",
+      "latin": "Sterna dougallii",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2750",
+      "name": "Sterne pierregarin",
+      "latin": "Sterna hirundo",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "2760",
+      "name": "Sterne arctique",
+      "latin": "Sterna paradisaea",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "2700",
+      "name": "Guifette moustac",
+      "latin": "Chlidonias hybrida",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2710",
+      "name": "Guifette leucoptère",
+      "latin": "Chlidonias leucopterus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2720",
+      "name": "Guifette noire",
+      "latin": "Chlidonias niger",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2490",
+      "name": "Grand Labbe",
+      "latin": "Stercorarius skua",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2500",
+      "name": "Labbe pomarin",
+      "latin": "Stercorarius pomarinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2510",
+      "name": "Labbe parasite",
+      "latin": "Stercorarius parasiticus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2520",
+      "name": "Labbe à longue queue",
+      "latin": "Stercorarius longicaudus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2880",
+      "name": "Guillemot de Troïl",
+      "latin": "Uria aalge",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "2895",
+      "name": "Guillemot à long bec",
+      "latin": "Brachyramphus perdix",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "10",
+      "name": "Plongeon catmarin",
+      "latin": "Gavia stellata",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "20",
+      "name": "Plongeon arctique",
+      "latin": "Gavia arctica",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "25",
+      "name": "Plongeon du Pacifique",
+      "latin": "Gavia pacifica",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "30",
+      "name": "Plongeon imbrin",
+      "latin": "Gavia immer",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "40",
+      "name": "Plongeon à bec blanc",
+      "latin": "Gavia adamsii",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "290",
+      "name": "Océanite tempête",
+      "latin": "Hydrobates pelagicus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "310",
+      "name": "Océanite culblanc",
+      "latin": "Hydrobates leucorhous",
+      "category": "A",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "300",
+      "name": "Océanite de Castro",
+      "latin": "Hydrobates castro",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "171",
+      "name": "Puffin de Scopoli",
+      "latin": "Calonectris diomedea",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "172",
+      "name": "Puffin cendré",
+      "latin": "Calonectris borealis",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "190",
+      "name": "Puffin fuligineux",
+      "latin": "Ardenna grisea",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "200",
+      "name": "Puffin des Anglais",
+      "latin": "Puffinus puffinus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "205",
+      "name": "Puffin yelkouan",
+      "latin": "Puffinus yelkouan",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "510",
+      "name": "Cigogne noire",
+      "latin": "Ciconia nigra",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "500",
+      "name": "Cigogne blanche",
+      "latin": "Ciconia ciconia",
+      "category": "AC",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "340",
+      "name": "Fou de Bassan",
+      "latin": "Morus bassanus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "370",
+      "name": "Cormoran pygmée",
+      "latin": "Microcarbo pygmaeus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "350",
+      "name": "Grand Cormoran",
+      "latin": "Phalacrocorax carbo",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "360",
+      "name": "Cormoran huppé",
+      "latin": "Gulosus aristotelis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "532",
+      "name": "Ibis sacré",
+      "latin": "Threskiornis aethiopicus",
+      "category": "C",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "530",
+      "name": "Ibis falcinelle",
+      "latin": "Plegadis falcinellus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "520",
+      "name": "Spatule blanche",
+      "latin": "Platalea leucorodia",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "480",
+      "name": "Butor étoilé",
+      "latin": "Botaurus stellaris",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "470",
+      "name": "Blongios nain",
+      "latin": "Botaurus minutus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "460",
+      "name": "Bihoreau gris",
+      "latin": "Nycticorax nycticorax",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "420",
+      "name": "Crabier chevelu",
+      "latin": "Ardeola ralloides",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "430",
+      "name": "Héron garde-boeufs",
+      "latin": "Ardea ibis",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "390",
+      "name": "Héron cendré",
+      "latin": "Ardea cinerea",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "400",
+      "name": "Héron pourpré",
+      "latin": "Ardea purpurea",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "440",
+      "name": "Grande Aigrette",
+      "latin": "Ardea alba",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "450",
+      "name": "Aigrette garzette",
+      "latin": "Egretta garzetta",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "320",
+      "name": "Pélican blanc",
+      "latin": "Pelecanus onocrotalus",
+      "category": "BD",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "325",
+      "name": "Pélican gris",
+      "latin": "Pelecanus rufescens",
+      "category": "D",
+      "status": null,
+      "breeding": null
+    },
+    {
+      "swiss_id": "330",
+      "name": "Pélican frisé",
+      "latin": "Pelecanus crispus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1380",
+      "name": "Balbuzard pêcheur",
+      "latin": "Pandion haliaetus",
+      "category": "A",
+      "status": "1",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "1070",
+      "name": "Élanion blanc",
+      "latin": "Elanus caeruleus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1320",
+      "name": "Gypaète barbu",
+      "latin": "Gypaetus barbatus",
+      "category": "AC",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1310",
+      "name": "Vautour percnoptère",
+      "latin": "Neophron percnopterus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1080",
+      "name": "Bondrée apivore",
+      "latin": "Pernis apivorus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1300",
+      "name": "Vautour fauve",
+      "latin": "Gyps fulvus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1290",
+      "name": "Vautour moine",
+      "latin": "Aegypius monachus",
+      "category": "AC",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1370",
+      "name": "Circaète Jean-le-Blanc",
+      "latin": "Circaetus gallicus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1250",
+      "name": "Aigle pomarin",
+      "latin": "Clanga pomarina",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1240",
+      "name": "Aigle criard",
+      "latin": "Clanga clanga",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1190",
+      "name": "Aigle botté",
+      "latin": "Hieraaetus pennatus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1230",
+      "name": "Aigle des steppes",
+      "latin": "Aquila nipalensis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1200",
+      "name": "Aigle royal",
+      "latin": "Aquila chrysaetos",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1180",
+      "name": "Aigle de Bonelli",
+      "latin": "Aquila fasciata",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1130",
+      "name": "Épervier d'Europe",
+      "latin": "Accipiter nisus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1110",
+      "name": "Autour des palombes",
+      "latin": "Astur gentilis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1360",
+      "name": "Busard des roseaux",
+      "latin": "Circus aeruginosus",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1330",
+      "name": "Busard Saint-Martin",
+      "latin": "Circus cyaneus",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "1340",
+      "name": "Busard pâle",
+      "latin": "Circus macrourus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1350",
+      "name": "Busard cendré",
+      "latin": "Circus pygargus",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "1090",
+      "name": "Milan royal",
+      "latin": "Milvus milvus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1100",
+      "name": "Milan noir",
+      "latin": "Milvus migrans",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1270",
+      "name": "Pygargue à queue blanche",
+      "latin": "Haliaeetus albicilla",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1170",
+      "name": "Buse pattue",
+      "latin": "Buteo lagopus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1140",
+      "name": "Buse féroce",
+      "latin": "Buteo rufinus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1150",
+      "name": "Buse variable",
+      "latin": "Buteo buteo",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3070",
+      "name": "Effraie des clochers",
+      "latin": "Tyto alba",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3200",
+      "name": "Chouette de Tengmalm",
+      "latin": "Aegolius funereus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3130",
+      "name": "Chevêche d'Athéna",
+      "latin": "Athene noctua",
+      "category": "AD",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3110",
+      "name": "Chouette épervière",
+      "latin": "Surnia ulula",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3120",
+      "name": "Chevêchette d'Europe",
+      "latin": "Glaucidium passerinum",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3080",
+      "name": "Petit-duc scops",
+      "latin": "Otus scops",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3170",
+      "name": "Hibou moyen-duc",
+      "latin": "Asio otus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3180",
+      "name": "Hibou des marais",
+      "latin": "Asio flammeus",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "3090",
+      "name": "Grand-duc d'Europe",
+      "latin": "Bubo bubo",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3140",
+      "name": "Chouette hulotte",
+      "latin": "Strix aluco",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3360",
+      "name": "Huppe fasciée",
+      "latin": "Upupa epops",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3350",
+      "name": "Rollier d'Europe",
+      "latin": "Coracias garrulus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3320",
+      "name": "Martin-pêcheur d'Europe",
+      "latin": "Alcedo atthis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3340",
+      "name": "Guêpier de Perse",
+      "latin": "Merops persicus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3330",
+      "name": "Guêpier d'Europe",
+      "latin": "Merops apiaster",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3370",
+      "name": "Torcol fourmilier",
+      "latin": "Jynx torquilla",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3460",
+      "name": "Pic tridactyle",
+      "latin": "Picoides tridactylus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3430",
+      "name": "Pic mar",
+      "latin": "Dendrocoptes medius",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3450",
+      "name": "Pic épeichette",
+      "latin": "Dryobates minor",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3410",
+      "name": "Pic épeiche",
+      "latin": "Dendrocopos major",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3440",
+      "name": "Pic à dos blanc",
+      "latin": "Dendrocopos leucotos",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3400",
+      "name": "Pic noir",
+      "latin": "Dryocopus martius",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3380",
+      "name": "Pic vert",
+      "latin": "Picus viridis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3390",
+      "name": "Pic cendré",
+      "latin": "Picus canus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1470",
+      "name": "Faucon crécerellette",
+      "latin": "Falco naumanni",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1480",
+      "name": "Faucon crécerelle",
+      "latin": "Falco tinnunculus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1460",
+      "name": "Faucon kobez",
+      "latin": "Falco vespertinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1440",
+      "name": "Faucon d'Eléonore",
+      "latin": "Falco eleonorae",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1450",
+      "name": "Faucon émerillon",
+      "latin": "Falco columbarius",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1430",
+      "name": "Faucon hobereau",
+      "latin": "Falco subbuteo",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "1400",
+      "name": "Faucon sacre",
+      "latin": "Falco cherrug",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1410",
+      "name": "Faucon gerfaut",
+      "latin": "Falco rusticolus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "1420",
+      "name": "Faucon pèlerin",
+      "latin": "Falco peregrinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3660",
+      "name": "Loriot d'Europe",
+      "latin": "Oriolus oriolus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5120",
+      "name": "Pie-grièche grise",
+      "latin": "Lanius excubitor",
+      "category": "A",
+      "status": "1",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "5130",
+      "name": "Pie-grièche à poitrine rose",
+      "latin": "Lanius minor",
+      "category": "A",
+      "status": "2",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "5140",
+      "name": "Pie-grièche à tête rousse",
+      "latin": "Lanius senator",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "5160",
+      "name": "Pie-grièche écorcheur",
+      "latin": "Lanius collurio",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5165",
+      "name": "Pie-grièche brune",
+      "latin": "Lanius cristatus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5161",
+      "name": "Pie-grièche schach",
+      "latin": "Lanius schach",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3750",
+      "name": "Geai des chênes",
+      "latin": "Garrulus glandarius",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3720",
+      "name": "Pie bavarde",
+      "latin": "Pica pica",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3740",
+      "name": "Cassenoix moucheté",
+      "latin": "Nucifraga caryocatactes",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3770",
+      "name": "Crave à bec rouge",
+      "latin": "Pyrrhocorax pyrrhocorax",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3780",
+      "name": "Chocard à bec jaune",
+      "latin": "Pyrrhocorax graculus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3710",
+      "name": "Choucas des tours",
+      "latin": "Coloeus monedula",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3700",
+      "name": "Corbeau freux",
+      "latin": "Corvus frugilegus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3681",
+      "name": "Corneille noire",
+      "latin": "Corvus corone",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3683",
+      "name": "Corneille mantelée",
+      "latin": "Corvus cornix",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3670",
+      "name": "Grand Corbeau",
+      "latin": "Corvus corax",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5110",
+      "name": "Jaseur boréal",
+      "latin": "Bombycilla garrulus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3820",
+      "name": "Mésange noire",
+      "latin": "Periparus ater",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3830",
+      "name": "Mésange huppée",
+      "latin": "Lophophanes cristatus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3860",
+      "name": "Mésange nonnette",
+      "latin": "Poecile palustris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3870",
+      "name": "Mésange boréale",
+      "latin": "Poecile montanus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3800",
+      "name": "Mésange bleue",
+      "latin": "Cyanistes caeruleus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3790",
+      "name": "Mésange charbonnière",
+      "latin": "Parus major",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3890",
+      "name": "Rémiz penduline",
+      "latin": "Remiz pendulinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "3900",
+      "name": "Panure à moustaches",
+      "latin": "Panurus biarmicus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3560",
+      "name": "Alouette lulu",
+      "latin": "Lullula arborea",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3490",
+      "name": "Alouette leucoptère",
+      "latin": "Alauda leucoptera",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3570",
+      "name": "Alouette des champs",
+      "latin": "Alauda arvensis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3540",
+      "name": "Cochevis huppé",
+      "latin": "Galerida cristata",
+      "category": "A",
+      "status": "2",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "3600",
+      "name": "Alouette haussecol",
+      "latin": "Eremophila alpestris",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3500",
+      "name": "Alouette calandrelle",
+      "latin": "Calandrella brachydactyla",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "3485",
+      "name": "Alouette monticole",
+      "latin": "Melanocorypha bimaculata",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3480",
+      "name": "Alouette calandre",
+      "latin": "Melanocorypha calandra",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3510",
+      "name": "Alouette pispolette",
+      "latin": "Alaudala rufescens",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3650",
+      "name": "Hirondelle de rivage",
+      "latin": "Riparia riparia",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3630",
+      "name": "Hirondelle de rochers",
+      "latin": "Ptyonoprogne rupestris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3610",
+      "name": "Hirondelle rustique",
+      "latin": "Hirundo rustica",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3640",
+      "name": "Hirondelle de fenêtre",
+      "latin": "Delichon urbicum",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3620",
+      "name": "Hirondelle rousseline",
+      "latin": "Cecropis rufula",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4370",
+      "name": "Bouscarle de Cetti",
+      "latin": "Cettia cetti",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "3880",
+      "name": "Mésange à longue queue",
+      "latin": "Aegithalos caudatus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4750",
+      "name": "Pouillot siffleur",
+      "latin": "Phylloscopus sibilatrix",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4740",
+      "name": "Pouillot de Bonelli",
+      "latin": "Phylloscopus bonelli",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4785",
+      "name": "Pouillot de Hume",
+      "latin": "Phylloscopus humei",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4780",
+      "name": "Pouillot à grands sourcils",
+      "latin": "Phylloscopus inornatus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4790",
+      "name": "Pouillot de Pallas",
+      "latin": "Phylloscopus proregulus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4770",
+      "name": "Pouillot de Schwarz",
+      "latin": "Phylloscopus schwarzi",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4760",
+      "name": "Pouillot brun",
+      "latin": "Phylloscopus fuscatus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4720",
+      "name": "Pouillot fitis",
+      "latin": "Phylloscopus trochilus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4730",
+      "name": "Pouillot véloce",
+      "latin": "Phylloscopus collybita",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4735",
+      "name": "Pouillot ibérique",
+      "latin": "Phylloscopus ibericus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4810",
+      "name": "Pouillot verdâtre",
+      "latin": "Phylloscopus trochiloides",
+      "category": "A",
+      "status": "2",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "4450",
+      "name": "Rousserolle turdoïde",
+      "latin": "Acrocephalus arundinaceus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4440",
+      "name": "Lusciniole à moustaches",
+      "latin": "Acrocephalus melanopogon",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "4510",
+      "name": "Phragmite aquatique",
+      "latin": "Acrocephalus paludicola",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4500",
+      "name": "Phragmite des joncs",
+      "latin": "Acrocephalus schoenobaenus",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "4490",
+      "name": "Rousserolle isabelle",
+      "latin": "Acrocephalus agricola",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4480",
+      "name": "Rousserolle des buissons",
+      "latin": "Acrocephalus dumetorum",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4460",
+      "name": "Rousserolle effarvatte",
+      "latin": "Acrocephalus scirpaceus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4470",
+      "name": "Rousserolle verderolle",
+      "latin": "Acrocephalus palustris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4560",
+      "name": "Hypolaïs bottée",
+      "latin": "Iduna caligata",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4520",
+      "name": "Hypolaïs polyglotte",
+      "latin": "Hippolais polyglotta",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4530",
+      "name": "Hypolaïs ictérine",
+      "latin": "Hippolais icterina",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4420",
+      "name": "Locustelle fluviatile",
+      "latin": "Locustella fluviatilis",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4430",
+      "name": "Locustelle luscinioïde",
+      "latin": "Locustella luscinioides",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4390",
+      "name": "Locustelle tachetée",
+      "latin": "Locustella naevia",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4710",
+      "name": "Cisticole des joncs",
+      "latin": "Cisticola juncidis",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "4570",
+      "name": "Fauvette à tête noire",
+      "latin": "Sylvia atricapilla",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4600",
+      "name": "Fauvette des jardins",
+      "latin": "Sylvia borin",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4580",
+      "name": "Fauvette épervière",
+      "latin": "Curruca nisoria",
+      "category": "A",
+      "status": "2",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "4620",
+      "name": "Fauvette babillarde",
+      "latin": "Curruca curruca",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4590",
+      "name": "Fauvette orphée",
+      "latin": "Curruca hortensis",
+      "category": "A",
+      "status": "2",
+      "breeding": "4"
+    },
+    {
+      "swiss_id": "4650",
+      "name": "Fauvette mélanocéphale",
+      "latin": "Curruca melanocephala",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4664",
+      "name": "Fauvette passerinette",
+      "latin": "Curruca iberiae",
+      "category": "A",
+      "status": "2",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "4665",
+      "name": "Fauvette de Moltoni",
+      "latin": "Curruca subalpina",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4661",
+      "name": "Fauvette des Balkans",
+      "latin": "Curruca cantillans",
+      "category": "A",
+      "status": "2",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "4610",
+      "name": "Fauvette grisette",
+      "latin": "Curruca communis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4670",
+      "name": "Fauvette à lunettes",
+      "latin": "Curruca conspicillata",
+      "category": "A",
+      "status": "2",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "4680",
+      "name": "Fauvette pitchou",
+      "latin": "Curruca undata",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4830",
+      "name": "Roitelet à triple bandeau",
+      "latin": "Regulus ignicapilla",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4820",
+      "name": "Roitelet huppé",
+      "latin": "Regulus regulus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3980",
+      "name": "Troglodyte mignon",
+      "latin": "Troglodytes troglodytes",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3910",
+      "name": "Sittelle torchepot",
+      "latin": "Sitta europaea",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3960",
+      "name": "Tichodrome échelette",
+      "latin": "Tichodroma muraria",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3940",
+      "name": "Grimpereau des bois",
+      "latin": "Certhia familiaris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "3950",
+      "name": "Grimpereau des jardins",
+      "latin": "Certhia brachydactyla",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5200",
+      "name": "Étourneau roselin",
+      "latin": "Pastor roseus",
+      "category": "AD",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5180",
+      "name": "Étourneau sansonnet",
+      "latin": "Sturnus vulgaris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5190",
+      "name": "Étourneau unicolore",
+      "latin": "Sturnus unicolor",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4200",
+      "name": "Grive de Sibérie",
+      "latin": "Geokichla sibirica",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4310",
+      "name": "Grive musicienne",
+      "latin": "Turdus philomelos",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4320",
+      "name": "Grive draine",
+      "latin": "Turdus viscivorus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4300",
+      "name": "Grive mauvis",
+      "latin": "Turdus iliacus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4240",
+      "name": "Merle noir",
+      "latin": "Turdus merula",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4290",
+      "name": "Grive litorne",
+      "latin": "Turdus pilaris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4230",
+      "name": "Merle à plastron",
+      "latin": "Turdus torquatus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4700",
+      "name": "Agrobate roux",
+      "latin": "Cercotrichas galactotes",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4840",
+      "name": "Gobemouche gris",
+      "latin": "Muscicapa striata",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4000",
+      "name": "Rougegorge familier",
+      "latin": "Erithacus rubecula",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4055",
+      "name": "Iranie à gorge blanche",
+      "latin": "Irania gutturalis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4010",
+      "name": "Rossignol progné",
+      "latin": "Luscinia luscinia",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4020",
+      "name": "Rossignol philomèle",
+      "latin": "Luscinia megarhynchos",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4040",
+      "name": "Gorgebleue à miroir",
+      "latin": "Luscinia svecica",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4890",
+      "name": "Gobemouche nain",
+      "latin": "Ficedula parva",
+      "category": "A",
+      "status": "2",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "4875",
+      "name": "Gobemouche à demi-collier",
+      "latin": "Ficedula semitorquata",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4860",
+      "name": "Gobemouche noir",
+      "latin": "Ficedula hypoleuca",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4870",
+      "name": "Gobemouche à collier",
+      "latin": "Ficedula albicollis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4050",
+      "name": "Robin à flancs roux",
+      "latin": "Tarsiger cyanurus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4060",
+      "name": "Rougequeue noir",
+      "latin": "Phoenicurus ochruros",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4070",
+      "name": "Rougequeue à front blanc",
+      "latin": "Phoenicurus phoenicurus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4180",
+      "name": "Monticole de roche",
+      "latin": "Monticola saxatilis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4190",
+      "name": "Monticole bleu",
+      "latin": "Monticola solitarius",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4090",
+      "name": "Tarier des prés",
+      "latin": "Saxicola rubetra",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4102",
+      "name": "Tarier de Sibérie",
+      "latin": "Saxicola maurus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4100",
+      "name": "Tarier pâtre",
+      "latin": "Saxicola rubicola",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4120",
+      "name": "Traquet motteux",
+      "latin": "Oenanthe oenanthe",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4110",
+      "name": "Traquet isabelle",
+      "latin": "Oenanthe isabellina",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4130",
+      "name": "Traquet du désert",
+      "latin": "Oenanthe deserti",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4141",
+      "name": "Traquet oreillard",
+      "latin": "Oenanthe hispanica",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4142",
+      "name": "Traquet noir et blanc",
+      "latin": "Oenanthe melanoleuca",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "3970",
+      "name": "Cincle plongeur",
+      "latin": "Cinclus cinclus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5300",
+      "name": "Moineau soulcie",
+      "latin": "Petronia petronia",
+      "category": "B",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5290",
+      "name": "Niverolle alpine",
+      "latin": "Montifringilla nivalis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5280",
+      "name": "Moineau friquet",
+      "latin": "Passer montanus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5270",
+      "name": "Moineau espagnol",
+      "latin": "Passer hispaniolensis",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5252",
+      "name": "Moineau cisalpin",
+      "latin": "Passer italiae",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5250",
+      "name": "Moineau domestique",
+      "latin": "Passer domesticus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4910",
+      "name": "Accenteur alpin",
+      "latin": "Prunella collaris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4900",
+      "name": "Accenteur mouchet",
+      "latin": "Prunella modularis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5060",
+      "name": "Bergeronnette printanière",
+      "latin": "Motacilla flava",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5100",
+      "name": "Bergeronnette citrine",
+      "latin": "Motacilla citreola",
+      "category": "A",
+      "status": "1",
+      "breeding": "3"
+    },
+    {
+      "swiss_id": "5050",
+      "name": "Bergeronnette des ruisseaux",
+      "latin": "Motacilla cinerea",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5030",
+      "name": "Bergeronnette grise",
+      "latin": "Motacilla alba",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4940",
+      "name": "Pipit de Richard",
+      "latin": "Anthus richardi",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4950",
+      "name": "Pipit rousseline",
+      "latin": "Anthus campestris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4930",
+      "name": "Pipit farlouse",
+      "latin": "Anthus pratensis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4970",
+      "name": "Pipit des arbres",
+      "latin": "Anthus trivialis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "4960",
+      "name": "Pipit à dos olive",
+      "latin": "Anthus hodgsoni",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "4990",
+      "name": "Pipit à gorge rousse",
+      "latin": "Anthus cervinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5000",
+      "name": "Pipit spioncelle",
+      "latin": "Anthus spinoletta",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5550",
+      "name": "Pinson des arbres",
+      "latin": "Fringilla coelebs",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5560",
+      "name": "Pinson du Nord",
+      "latin": "Fringilla montifringilla",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5320",
+      "name": "Grosbec casse-noyaux",
+      "latin": "Coccothraustes coccothraustes",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5510",
+      "name": "Durbec des sapins",
+      "latin": "Pinicola enucleator",
+      "category": "A",
+      "status": "4",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5480",
+      "name": "Bouvreuil pivoine",
+      "latin": "Pyrrhula pyrrhula",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5470",
+      "name": "Roselin githagine",
+      "latin": "Bucanetes githagineus",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5500",
+      "name": "Roselin cramoisi",
+      "latin": "Carpodacus erythrinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5330",
+      "name": "Verdier d'Europe",
+      "latin": "Chloris chloris",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5380",
+      "name": "Linotte à bec jaune",
+      "latin": "Linaria flavirostris",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5370",
+      "name": "Linotte mélodieuse",
+      "latin": "Linaria cannabina",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5420",
+      "name": "Sizerin flammé",
+      "latin": "Acanthis flammea",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5520",
+      "name": "Bec-croisé des sapins",
+      "latin": "Loxia curvirostra",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5350",
+      "name": "Chardonneret élégant",
+      "latin": "Carduelis carduelis",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5450",
+      "name": "Venturon montagnard",
+      "latin": "Carduelis citrinella",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5460",
+      "name": "Serin cini",
+      "latin": "Serinus serinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5360",
+      "name": "Tarin des aulnes",
+      "latin": "Spinus spinus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5780",
+      "name": "Bruant lapon",
+      "latin": "Calcarius lapponicus",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5790",
+      "name": "Bruant des neiges",
+      "latin": "Plectrophenax nivalis",
+      "category": "A",
+      "status": "1",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5570",
+      "name": "Bruant proyer",
+      "latin": "Emberiza calandra",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5580",
+      "name": "Bruant jaune",
+      "latin": "Emberiza citrinella",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5590",
+      "name": "Bruant à calotte blanche",
+      "latin": "Emberiza leucocephalos",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5690",
+      "name": "Bruant fou",
+      "latin": "Emberiza cia",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5670",
+      "name": "Bruant ortolan",
+      "latin": "Emberiza hortulana",
+      "category": "A",
+      "status": "1",
+      "breeding": "2"
+    },
+    {
+      "swiss_id": "5640",
+      "name": "Bruant zizi",
+      "latin": "Emberiza cirlus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5720",
+      "name": "Bruant nain",
+      "latin": "Emberiza pusilla",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5710",
+      "name": "Bruant rustique",
+      "latin": "Emberiza rustica",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5600",
+      "name": "Bruant mélanocéphale",
+      "latin": "Emberiza melanocephala",
+      "category": "A",
+      "status": "2",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "5740",
+      "name": "Bruant des roseaux",
+      "latin": "Emberiza schoeniclus",
+      "category": "A",
+      "status": "1",
+      "breeding": "1"
+    },
+    {
+      "swiss_id": "5775",
+      "name": "Bruant chanteur",
+      "latin": "Melospiza melodia",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    },
+    {
+      "swiss_id": "6110",
+      "name": "Paruline masquée",
+      "latin": "Geothlypis trichas",
+      "category": "A",
+      "status": "3",
+      "breeding": "5"
+    }
+  ]
+}

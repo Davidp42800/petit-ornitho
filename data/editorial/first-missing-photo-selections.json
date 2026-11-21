@@ -1,0 +1,29 @@
+{
+  "inat-744056315": {
+    "subject": [
+      0.35,
+      0.155,
+      0.84,
+      0.748
+    ],
+    "note": "Portrait posé net ; bec robuste et plumes de gorge visibles, queue en partie masquée par le rocher."
+  },
+  "inat-317299349": {
+    "subject": [
+      0.255,
+      0.255,
+      0.733,
+      0.885
+    ],
+    "note": "Vue posée entière, ailes écartées ; tête, bec et queue visibles, posture moins habituelle."
+  },
+  "inat-451691329": {
+    "subject": [
+      0.185,
+      0.125,
+      0.795,
+      0.8
+    ],
+    "note": "Vue en vol nette, ailes entières ; proie dans les serres, sans détail sanglant."
+  }
+}

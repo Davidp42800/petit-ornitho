@@ -1,0 +1,91 @@
+{
+  "questions": [
+    {
+      "species_id": "ch_3320",
+      "version": 1,
+      "kind": "quiz",
+      "status": "draft",
+      "route_stages": [
+        2,
+        5
+      ],
+      "asset": "",
+      "clues": [],
+      "publisher": "LPO France",
+      "source": "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/martin-pecheur-d-europe",
+      "checked_at": "2026-10-03",
+      "photo_id": "inat-163772236",
+      "id": "pio_kingfisher_nest_v1",
+      "title": "Où est mon nid ?",
+      "prompt": "Ce Martin-pêcheur prépare sa nichée. Quel abri creuse-t-il habituellement ?",
+      "options": [
+        "Une coupe de brindilles dans un arbre",
+        "Un tunnel dans une berge en terre",
+        "Un nid flottant sur l’eau"
+      ],
+      "answer": 1,
+      "explanation": "Le couple creuse un tunnel dans une berge en terre. Les œufs sont abrités à l’intérieur : tous les oiseaux ne nichent pas dans les arbres !",
+      "fact_id": "vw_web_3320_8e31f3077cb1_breeding",
+      "source_locator": "Reproduction",
+      "review_note": "Relier les précisions LPO à un document et à des faits approuvés avant publication. Nid : fait actuel encore draft."
+    },
+    {
+      "species_id": "ch_3320",
+      "version": 1,
+      "kind": "quiz",
+      "status": "draft",
+      "route_stages": [
+        2,
+        5
+      ],
+      "asset": "",
+      "clues": [],
+      "publisher": "LPO France",
+      "source": "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/martin-pecheur-d-europe",
+      "checked_at": "2026-10-03",
+      "photo_id": "inat-163772236",
+      "id": "pio_kingfisher_habitat_v1",
+      "title": "Où me trouver ?",
+      "prompt": "Pio cherche ce Martin-pêcheur. Quel milieu explore-t-il en premier ?",
+      "options": [
+        "Un pierrier au-dessus des forêts",
+        "Une prairie sèche sans point d’eau",
+        "Les rives d’une rivière poissonneuse"
+      ],
+      "answer": 2,
+      "explanation": "La rivière lui offre des poissons. Les perchoirs au bord de l’eau l’aident à surveiller ses proies.",
+      "fact_id": "vw_web_3320_8e31f3077cb1_habitat",
+      "source_locator": "Habitat",
+      "review_note": "Relier les précisions LPO à un document et à des faits approuvés avant publication. Nid : fait actuel encore draft."
+    },
+    {
+      "species_id": "ch_3320",
+      "version": 1,
+      "kind": "quiz",
+      "status": "draft",
+      "route_stages": [
+        2,
+        5
+      ],
+      "asset": "",
+      "clues": [],
+      "publisher": "LPO France",
+      "source": "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/martin-pecheur-d-europe",
+      "checked_at": "2026-10-03",
+      "photo_id": "inat-163772236",
+      "id": "pio_kingfisher_diet_v1",
+      "title": "À table !",
+      "prompt": "Quel repas ce Martin-pêcheur attrape-t-il principalement en plongeant ?",
+      "options": [
+        "De petits poissons",
+        "Des pommes de pin",
+        "Des graines de chardon"
+      ],
+      "answer": 0,
+      "explanation": "Il surveille l’eau puis plonge pour attraper de petits poissons, qui constituent l’essentiel de son menu.",
+      "fact_id": "vw_web_3320_8e31f3077cb1_diet",
+      "source_locator": "Régime alimentaire",
+      "review_note": "Relier les précisions LPO à un document et à des faits approuvés avant publication. Nid : fait actuel encore draft."
+    }
+  ]
+}
