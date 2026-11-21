@@ -158,7 +158,7 @@ class _AuthState extends State<AuthScreen> {
                   Text(
                     creating
                         ? 'Utilise ton adresse e-mail pour sauvegarder ta progression.'
-                        : 'Connecte-toi pour jouer et retrouver ta progression.',
+                        : 'Un compte gratuit est obligatoire pour jouer. Connecte-toi pour retrouver tes balades et tes plumes sauvegardées.',
                   ),
                   const SizedBox(height: 24),
                   Form(
@@ -199,7 +199,8 @@ class _AuthState extends State<AuthScreen> {
                             onFieldSubmitted: (_) => signInWithEmail(),
                             decoration: InputDecoration(
                               labelText: 'Mot de passe',
-                              helperText: creating ? '6 caractères minimum.' : null,
+                              helperText: '6 caractères minimum. Aucun caractère spécial imposé.',
+                              helperMaxLines: 3,
                               suffixIcon: IconButton(
                                 tooltip: hidePassword
                                     ? 'Afficher le mot de passe'
