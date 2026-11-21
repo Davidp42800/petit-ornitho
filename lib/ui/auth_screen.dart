@@ -157,8 +157,8 @@ class _AuthState extends State<AuthScreen> {
                   const SizedBox(height: 12),
                   Text(
                     creating
-                        ? 'Utilise ton adresse e-mail pour sauvegarder ta progression.'
-                        : 'Un compte gratuit est obligatoire pour jouer. Connecte-toi pour retrouver tes balades et tes plumes sauvegardées.',
+                        ? 'Crée ton compte gratuit pour enregistrer tes parties et retrouver ta progression à chaque connexion.'
+                        : 'Un compte gratuit est obligatoire pour jouer et enregistrer tes parties. Connecte-toi pour reprendre ton aventure là où tu l’as laissée.',
                   ),
                   const SizedBox(height: 24),
                   Form(
@@ -255,7 +255,7 @@ class _AuthState extends State<AuthScreen> {
                     Semantics(liveRegion: true, child: Text(message!)),
                   const SizedBox(height: 20),
                   const Text(
-                    'Un compte gratuit est nécessaire pour jouer. Tes balades et tes plumes sont sauvegardées dans ton compte.',
+                    'Tes balades, tes plumes et ta progression sont liées à ton compte : tu les retrouves en te reconnectant.',
                   ),
                   if (!widget.requiredForPlay)
                     TextButton(
