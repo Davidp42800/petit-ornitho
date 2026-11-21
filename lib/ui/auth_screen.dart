@@ -10,10 +10,12 @@ import 'components.dart';
 class AuthScreen extends StatefulWidget {
   final GameStore store;
   final bool createAccount;
+  final bool requiredForPlay;
   const AuthScreen({
     super.key,
     required this.store,
     this.createAccount = false,
+    this.requiredForPlay = false,
   });
   @override
   State<AuthScreen> createState() => _AuthState();
@@ -36,6 +38,7 @@ class _AuthState extends State<AuthScreen> {
     subscription = widget.store.client.auth.onAuthStateChange.listen(
       (state) {
         if (mounted &&
+            !widget.requiredForPlay &&
             !closing &&
             state.event == AuthChangeEvent.signedIn &&
             state.session != null) {
@@ -127,7 +130,10 @@ class _AuthState extends State<AuthScreen> {
 
   @override
   Widget build(BuildContext context) => Scaffold(
-    appBar: AppBar(title: Text(creating ? 'Inscription' : 'Connexion')),
+    appBar: AppBar(
+      automaticallyImplyLeading: !widget.requiredForPlay,
+      title: Text(creating ? 'Inscription' : 'Connexion'),
+    ),
     body: GardenBackdrop(
       child: Center(
         child: ConstrainedBox(
@@ -152,7 +158,7 @@ class _AuthState extends State<AuthScreen> {
                   Text(
                     creating
                         ? 'Utilise ton adresse e-mail pour sauvegarder ta progression.'
-                        : 'Connecte-toi pour retrouver ta progression.',
+                        : 'Connecte-toi pour jouer et retrouver ta progression.',
                   ),
                   const SizedBox(height: 24),
                   Form(
@@ -245,12 +251,13 @@ class _AuthState extends State<AuthScreen> {
                     Semantics(liveRegion: true, child: Text(message!)),
                   const SizedBox(height: 20),
                   const Text(
-                    'Tu peux activer la synchronisation des coches dans le carnet. Ta progression invitée est conservée séparément de celle du compte.',
+                    'Un compte gratuit est nécessaire pour jouer. Tes balades et tes plumes sont sauvegardées dans ton compte.',
                   ),
-                  TextButton(
-                    onPressed: busy ? null : () => Navigator.pop(context),
-                    child: const Text('Revenir au jeu'),
-                  ),
+                  if (!widget.requiredForPlay)
+                    TextButton(
+                      onPressed: busy ? null : () => Navigator.pop(context),
+                      child: const Text('Revenir au jeu'),
+                    ),
                 ],
               ),
             ),

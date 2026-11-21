@@ -128,11 +128,11 @@ class _AccountScreenState extends State<AccountScreen> {
                       Text(
                         widget.store.cloud
                             ? 'Compte connecté : les parties et les plumes sont synchronisées.'
-                            : 'Mode invité : les parties et les plumes restent sur cet appareil.',
+                            : 'Connecte-toi pour jouer et sauvegarder ta progression.',
                       ),
                       const SizedBox(height: 12),
                       const Text(
-                        'Tu peux synchroniser tes coches, dates, notes et positions GPS en activant la synchronisation dans le carnet. La progression invitée est séparée de celle du compte.',
+                        'Tu peux synchroniser tes coches, dates, notes et positions GPS en activant la synchronisation dans le carnet. Tes balades et tes plumes sont liées à ton compte.',
                       ),
                       const SizedBox(height: 16),
                       if (error != null)

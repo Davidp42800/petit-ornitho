@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'data/game_store.dart';
-import 'ui/app.dart';
+import 'ui/account_session_app.dart';
 import 'ui/pio.dart';
 
 void main() {
@@ -38,7 +38,7 @@ class _StartupState extends State<Startup> {
   Widget build(BuildContext context) => FutureBuilder<GameStore>(
     future: loading,
     builder: (context, snapshot) {
-      if (snapshot.hasData) return OrnithoApp(store: snapshot.data!);
+      if (snapshot.hasData) return AccountSessionApp(store: snapshot.data!);
       return MaterialApp(
         debugShowCheckedModeBanner: false,
         home: Scaffold(

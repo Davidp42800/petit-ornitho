@@ -7,7 +7,8 @@ export 'game_screen.dart';
 
 class OrnithoApp extends StatelessWidget {
   final GameStore store;
-  const OrnithoApp({super.key, required this.store});
+  final Widget? entryScreen;
+  const OrnithoApp({super.key, required this.store, this.entryScreen});
   @override
   Widget build(BuildContext context) => MaterialApp(
     title: 'Petit ornitho',
@@ -150,6 +151,6 @@ class OrnithoApp extends StatelessWidget {
         ),
       ),
     ),
-    home: Home(store: store),
+    home: entryScreen ?? Home(store: store),
   );
 }
