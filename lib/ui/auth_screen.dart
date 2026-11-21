@@ -102,7 +102,7 @@ class _AuthState extends State<AuthScreen> {
             'email_not_confirmed' =>
               'Confirme ton adresse avec le lien reçu par e-mail, puis reconnecte-toi.',
             'weak_password' =>
-              'Choisis un mot de passe plus long et plus varié.',
+              'Utilise au moins 6 caractères.',
             'over_email_send_rate_limit' || 'over_request_rate_limit' =>
               'Trop de tentatives. Patiente un moment avant de réessayer.',
             'invalid_credentials' =>
@@ -199,6 +199,7 @@ class _AuthState extends State<AuthScreen> {
                             onFieldSubmitted: (_) => signInWithEmail(),
                             decoration: InputDecoration(
                               labelText: 'Mot de passe',
+                              helperText: creating ? '6 caractères minimum.' : null,
                               suffixIcon: IconButton(
                                 tooltip: hidePassword
                                     ? 'Afficher le mot de passe'
@@ -217,6 +218,8 @@ class _AuthState extends State<AuthScreen> {
                             ),
                             validator: (value) => value == null || value.isEmpty
                                 ? 'Indique ton mot de passe.'
+                                : creating && value.length < 6
+                                ? 'Utilise au moins 6 caractères.'
                                 : null,
                           ),
                           const SizedBox(height: 20),
